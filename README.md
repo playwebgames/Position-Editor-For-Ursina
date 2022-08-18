@@ -13,4 +13,4 @@ An open source use and throw 😄 position editor for 3D games made with Ursina 
 
 DONE!!
 
-![DONE!](https://mega.nz/file/EnxySQZJ#srZV4nD20vMmskaLVrRyihEaFh4NohXYb-YUFVR8pQ8)
+![DONE!](DONE.png)
