@@ -6,7 +6,7 @@ An open source use and throw 😄 position editor for 3D games made with Ursina 
   Copy and paste this part of the code
     
 => Step 2:
- Adjust the speed and target entity 
+ Edit the speed and target entity(the entity whose position you want to edit) 
  
 => Step 3:
   Get the required position of the object and update it manually in your code
