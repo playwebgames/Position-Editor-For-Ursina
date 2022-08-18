@@ -3,7 +3,7 @@ An open source use and throw 😄 position editor for 3D games made with Ursina 
 
 
 => Step 1:
-  Copy and paste the code from *editor.py*
+  Copy and paste the code from **editor.py**
     
 => Step 2:
  Edit the speed and target entity(the entity whose position you want to edit) 
