@@ -3,7 +3,7 @@ An open source use and throw 😄 position editor for 3D games made with Ursina 
 
 
 => Step 1:
-  Copy and paste this part of the code:
+  Copy and paste this part of the code
     
 => Step 2:
  adjust the speed and target entity 
